@@ -1,13 +1,8 @@
 # Field Notes in Computational Curiosity
 
-Welcome. Rewrite this paragraph: say what the journal publishes, who it is for, and how to
-submit. This page is yours: the engine stamps it once and never touches it again.
+A small, open journal for short computational notes: one question, one dataset, one figure you can play with. This is a demo instance used to test the oaktree-sapling engine end to end.
 
 ## Papers
 
 :::{paper-cards}
 :::
-
-<!-- `paper-cards` lists every paper in registry/papers.yml, in file order. Splitting it into
-per-edition pages once you have a second edition:
-https://scholar.nexus/oaktree-sapling/reference/files#file-pages-index -->
