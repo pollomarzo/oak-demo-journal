@@ -7,7 +7,7 @@ site:
     logo_text: Field Notes
     # logo: https://example.org/logo.svg
     # favicon: https://example.org/logo.svg
-    # logo_url: https://example.org
+    logo_url: https://pollomarzo.github.io/oak-demo-journal/
 project:
   options:
     # https://scholar.nexus/oaktree-sapling/guide/branding#pdf-logo
