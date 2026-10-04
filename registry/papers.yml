@@ -11,3 +11,7 @@
   slug: seattle-rain
   location: { repo: pollomarzo/oak-demo-paper-a, path: . }
   edition: "2026"
+- id: fieldnotes-2026-birthday-paradox
+  slug: birthday-paradox
+  location: { repo: pollomarzo/oak-demo-paper-b, path: . }
+  edition: "2026"
