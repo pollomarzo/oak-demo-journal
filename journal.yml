@@ -14,7 +14,8 @@ id_pattern: "^[a-z0-9]+-\\d{4}-[a-z0-9-]+$"
 # typst_template: ./typst-template
 
 preview:
-  provider: artifact
+  provider: cloudflare
+  cf_project_name: oaktree-sapling-test
   branch_pattern: paper-{repo}-{pr}
 
 zenodo: {}
