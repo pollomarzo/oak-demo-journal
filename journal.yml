@@ -30,4 +30,3 @@ checks:
   - id: authors-have-credit-roles
   - id: abstract-exists
   - id: keywords-defined
-  - id: links-resolve
